@@ -1,0 +1,46 @@
+li{
+    list-style: none;
+}
+
+/* .header{
+    height: 60px;
+}
+
+.header img{
+    height: 40px;
+    margin-left: 320px;
+    float: left;
+}
+
+.header-list li{
+    float: right;
+    margin: 30px;
+} */
+
+.main-photo {
+    height: 100%;
+    width: 100%;
+}
+
+.profile-photo{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 400px;
+}
+
+.about{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.main p{
+  padding: 0px 500px 0px 500px;  
+}
+
+.footer-item{
+    float: left;
+    margin:0px 5px 0px 5px ;
+   
+}

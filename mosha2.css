@@ -1,0 +1,56 @@
+body{
+  font-family: "Helvetica Neue";
+}
+
+li{
+  list-style: none;
+  display: inline;
+  margin: 10px;
+}
+
+
+.header{
+  background-image: url(https://pas-pol.jp/wp-content/uploads/2014/11/main_visual_13-0x0.jpg);
+  width: 1485px;
+  height:800px;
+
+}
+
+.header-logo{
+  font-size: 26px;
+  font-family: "Helvetica Neue";
+  font-weight: 700;
+  color:white;
+  margin-left: 196px;
+  margin-top: 60px;
+}
+
+.header-list li{
+  float:right;
+  color: white;
+
+}
+
+.main-container p{
+  margin-left:500px;
+  margin-right: 500px;
+}
+
+.main-container h1{
+  margin-left:650px;
+  margin-right: 500px;
+}
+
+.main-container h2{
+  margin-left:670px;
+  margin-right: 500px;
+}
+
+/* .cection-title {
+
+} */
+
+.contents-item{
+  float: left;
+  display: inline;
+}
